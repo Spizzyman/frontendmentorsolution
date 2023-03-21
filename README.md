@@ -51,4 +51,4 @@ I want to keep focusing on perfecting my css, I am currently no where close to m
 ## Author
 
 - Frontend Mentor - [spizzyman](https://www.frontendmentor.io/profile/spizzyman)
-- Twitter - [spizzy.man](https://www.twitter.com/)
+- Twitter - [spizzyman](https://www.twitter.com/spizzman)
